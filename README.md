@@ -1,4 +1,4 @@
-## Hi there 👋
+![Anna Becker – People Analytics](profile_banner.png)
 
 <!--
 **annabecker987/annabecker987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
