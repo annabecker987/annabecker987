@@ -1,4 +1,4 @@
-![Anna Becker – People Analytics](profile_banner.png)
+![Anna Becker – People Analytics](Turn_Over_By_Country_Cultural_Dimensions.png)
 
 <!--
 **annabecker987/annabecker987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
